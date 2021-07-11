@@ -1,2 +1,8 @@
-# N-Quuen-Game
-AI : N-Queen- N-Queens  Problem  Solver  using :  Differential  Evolution - Backtracking  Algorithm ,  Topic:  Star  (A*)  Search  Algorithm, Heuristic Functions
+# AI :shipit:
+# N-Queen-
+N-Queens  Problem  Solver  using : 
+- [x] Differential  Evolution 
+- [x] Backtracking  Algorithm
+ # Presentation  Topic: 
+- [x] A-Star  (A*)  Search  Algorithm, 
+- [x] Heuristic Functions
